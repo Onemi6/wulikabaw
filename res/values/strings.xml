@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">wuli卡包</string>
+    <string name="action_settings">Settings</string>
+    <string name="zhanghao">账号</string>
+    <string name="mima">密码</string>
+    <string name="edit_zhanghao">请输入登录账号</string>
+    <string name="edit_mima">请输入登录密码</string>
+    <string name="login">登录</string>
+    <string name="wufadenglu">无法登录?</string>
+    <string name="problem_title">有问题 ? 射这里</string>
+    <string name="problem">在这里把你遇到的问题大胆写出来</string>
+    <string name="tijiao">提交</string>
+    <string name="qingchu">清除</string>
+    <string name="zhuce">新用户?赶紧注册</string>
+    <string name="zcxyh">注册新用户</string>
+    <string name="zcbtn">注册</string>
+    <string name="zhuce_edit_zhanghao">请输入账号</string>
+    <string name="zhuce_edit_mima">请输入密码</string>
+    <string name="zhuce_edit_mima_queren">请再次输入密码</string>
+    <string name="zhuce_edit_phone">请输入手机</string>
+    <string name="zhuce_edit_email">请输入邮箱</string>
+    <string name="zhuce_zhanghao">账号</string>
+    <string name="zhuce_mima">密码</string>
+    <string name="zhuce_mima_queren">确认密码</string>
+    <string name="zhuce_phone">手机</string>
+    <string name="zhuce_email">邮箱</string>
+    
+    <string name="zhengjian">证件</string>
+    <string name="huiyuan">会员</string>
+    <string name="wode">我的</string>
+    <string name="search">搜索</string>
+    <string name="add">添加</string>
+    <string name="tishi">快说你要找什么啦</string>
+    <string name="wode_logo">头像</string>
+    <string name="wode_zhanghao">账号</string>
+    <string name="wode_phone">手机</string>
+    <string name="wode_email">邮箱</string>
+    <string name="wode_credit">积分</string>
+    
+    <string name="searchkey">请输入关键字</string>
+    
+    <string name="wode_shezhi">设置</string>
+    <string name="xiugai_logo">修改头像</string>
+    <string name="xiugai_mima">修改密码</string>
+    <string name="xiugai_phone">修改手机</string>
+    <string name="xiugai_email">修改邮箱</string>
+    <string name="yijian">意见反馈</string>
+    <string name="about">关于</string>
+    <string name="title_text">Title Text</string>
+    
+    <string name="take_photo">拍照</string>
+    <string name="choose_photo">从相册中选取</string>
+</resources>
